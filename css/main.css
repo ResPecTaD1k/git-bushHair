@@ -62,9 +62,9 @@ ul {
 }
 
 .container {
-    max-width: 1368px; 
-    padding: 88px;
-    margin: 0 auto
+    max-width: 1440px; 
+    padding: 0px 44px;
+    margin: 0 auto;
 }
 
 .top-nav {
@@ -112,7 +112,7 @@ ul {
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 5px;
-    padding: 117px 85px;
+    padding: 134px 85px;
     margin-bottom: 136px
 }
 
@@ -443,7 +443,7 @@ ul {
 }
 
 .hero__container {
-    padding: .5px 44px
+    padding: 0px 44px
 }
 
 .header__top {
@@ -636,4 +636,22 @@ ul {
 .main-bottom
 {
     margin-bottom: 0px;
+}
+.header__back-imgage
+{
+    background-image: url(../img/cofee-page__back-img.png);
+    background-position: center;
+    margin-bottom: 168px;
+}
+.main__bottom-page-2
+{
+    background-color: #2C343E;
+}
+.hero__container p, .hero__container h3
+{
+    color: #fff;
+}
+.site-main
+{
+    margin-bottom: 168px;
 }
